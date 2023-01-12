@@ -1,0 +1,6 @@
+venv
+.pytest_cache
+image
+index.md
+lab.md
+sample_code.py
